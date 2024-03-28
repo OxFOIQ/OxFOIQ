@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [https://medamine.vercel.app/](https://medamine.vercel.app/)
-
 - 💬 Ask me about **Network Security , Ethical Hacking Techniques, tools, and methodologies.
 Penetration Testing , Identifying and addressing vulnerabilities.
 Security Best Practices , Securing applications and networks.
