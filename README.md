@@ -11,8 +11,6 @@ Penetration Testing , Identifying and addressing vulnerabilities.
 Security Best Practices , Securing applications and networks.
 Incident Response, Strategies for effective response and mitigation.**
 
-- 📫 How to reach me **MOHAMED.AMINE.MZOUGHI@EPISOUSSE.COM.TN**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/medamyyne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/medamyyne" height="30" width="40" /></a>
