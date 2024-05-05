@@ -9,7 +9,7 @@
 - 💬 Ask me about **Network Security , Ethical Hacking Techniques, tools, and methodologies.
 Penetration Testing , Identifying and addressing vulnerabilities.
 Security Best Practices , Securing applications and networks.
-.**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
