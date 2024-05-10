@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mzoughi Mohamed Amine</h1>
 
-<h3 align="center">A Passionate Web Development, AI ,Cybersecurity & Aspiring Malware Analyst </h3>
+<h3 align="center">A Passionate Web Development ,Cybersecurity & Aspiring Malware Analyst </h3>
 
 <img align="center" width="1000" src="https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003393_1280.jpg" alt="oxo1" />
 
