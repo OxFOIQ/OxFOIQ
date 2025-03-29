@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, uuЄ1I{0rn3 3457_1 !N M7 uu0514</h1>
 
-<h3 align="center">A Passionate Cybersecurity & Aspiring Malware Analyst </h3>
+<h3 align="center">A Passionate Cybersecurity</h3>
 
 <img align="center" width="1000" src="https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003393_1280.jpg" alt="oxo1" />
 
